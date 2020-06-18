@@ -1,0 +1,13 @@
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\bin\Debug\netcoreapp3.1\ImplicitTyping.exe
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\bin\Debug\netcoreapp3.1\ImplicitTyping.deps.json
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\bin\Debug\netcoreapp3.1\ImplicitTyping.runtimeconfig.json
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\bin\Debug\netcoreapp3.1\ImplicitTyping.runtimeconfig.dev.json
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\bin\Debug\netcoreapp3.1\ImplicitTyping.dll
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\bin\Debug\netcoreapp3.1\ImplicitTyping.pdb
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\obj\Debug\netcoreapp3.1\ImplicitTyping.csprojAssemblyReference.cache
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\obj\Debug\netcoreapp3.1\ImplicitTyping.AssemblyInfoInputs.cache
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\obj\Debug\netcoreapp3.1\ImplicitTyping.AssemblyInfo.cs
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\obj\Debug\netcoreapp3.1\ImplicitTyping.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\obj\Debug\netcoreapp3.1\ImplicitTyping.dll
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\obj\Debug\netcoreapp3.1\ImplicitTyping.pdb
+C:\Users\hecdi\Desktop\Advance C#\ImplicitTyping\ImplicitTyping\obj\Debug\netcoreapp3.1\ImplicitTyping.genruntimeconfig.cache
