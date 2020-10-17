@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hecdi\\Desktop\\Advance C#\\Generics\\Generics\\Generics.csproj",
-      "projectName": "Generics",
-      "projectPath": "C:\\Users\\hecdi\\Desktop\\Advance C#\\Generics\\Generics\\Generics.csproj",
+      "projectUniqueName": "C:\\Users\\hecdi\\Desktop\\Advance C#\\Attributes\\Attributes\\Attributes.csproj",
+      "projectName": "Attributes",
+      "projectPath": "C:\\Users\\hecdi\\Desktop\\Advance C#\\Attributes\\Attributes\\Attributes.csproj",
       "packagesPath": "C:\\Users\\hecdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hecdi\\Desktop\\Advance C#\\Generics\\Generics\\obj\\",
+      "outputPath": "C:\\Users\\hecdi\\Desktop\\Advance C#\\Attributes\\Attributes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hecdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
